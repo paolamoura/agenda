@@ -1,2 +1,1 @@
-# agenda-lab3
-Agenda desenvolvida na linguagem de programação Java.
+Agenda desenvolvida na linguagem de programação Java, conforme o solicitado na disciplina Laboratório de Programação II da UFCG.
